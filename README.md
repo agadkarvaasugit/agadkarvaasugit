@@ -1,5 +1,5 @@
 
-```html
+```bash
 $ vaasu
    _____________________
   /                 `   \                 vaasu@agadkar

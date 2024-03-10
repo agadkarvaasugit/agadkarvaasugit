@@ -2,7 +2,7 @@
 ```python
 $ vaasu
    _____________________
-  /                 `   \                 vaasu@va
+  /                 `   \                 //vaasu@agadkar
   |  .-----------.  |   |-----.           ----------
   |  |           |  |   |-=---|           uptime: "21 years"
   |  | Apple //c |  |   |-----|           host: "virginia tech"           

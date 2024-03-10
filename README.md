@@ -1,5 +1,5 @@
 
-```bash
+```r
 $ vaasu
    _____________________
   /                 `   \                 vaasu@agadkar

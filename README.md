@@ -8,7 +8,7 @@ $ vaasu
   |  | Apple //c |  |   |-----|           host: "virginia tech"           
   |  |           |  |   |-----|           kernel: "bs in cs and mnr in math" 
   |  |           |  |   |-----|           position: "swe"
-  |  `-----------'  |   |-----'/\         languages: "python,c,c++,js,java,r"
+  |  `-----------'  |   |-----'/\         language: "python,c,c++,js,java,r"
    \________________/___'     /  \        os: "macOS"
       /                      / / /        website: "vaasu-agadkar.os"
      / //               //  / / /

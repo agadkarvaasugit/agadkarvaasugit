@@ -1,15 +1,21 @@
-### Hi there 👋
 
-
-**agadkarvaasugit/agadkarvaasugit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+```java
+$ vaasu
+   _____________________
+  /                 `   \                 vaasu@va
+  |  .-----------.  |   |-----.           ----------
+  |  |           |  |   |-=---|           uptime: "21 years"
+  |  | Apple //c |  |   |-----|           host: "virginia tech"           
+  |  |           |  |   |-----|           kersnel: "bs in cs and mnr in math" 
+  |  |           |  |   |-----|           position: "swe"
+  |  `-----------'  |   |-----'/\         languages: ["python","c","c++","javascript","r","java]
+   \________________/___'     /  \        os: "macOS"
+      /                      / / /
+     / //               //  / / /
+    /                      / / /
+   / _/_/_/_/_/_/_/_/_/_/ /   /
+  / _/_/_/_/_/_/_/_/_/_/ /   /
+ / _/_/_/_______/_/_/_/ / __/
+/______________________/ /    
+\______________________\/
+```

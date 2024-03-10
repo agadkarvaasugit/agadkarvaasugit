@@ -6,7 +6,7 @@ $ vaasu
   |  .-----------.  |   |-----.           ----------
   |  |           |  |   |-=---|           uptime: "21 years"
   |  | Apple //c |  |   |-----|           host: "virginia tech"           
-  |  |           |  |   |-----|           kersnel: "bs in cs and mnr in math" 
+  |  |           |  |   |-----|           kernel: "bs in cs and mnr in math" 
   |  |           |  |   |-----|           position: "swe"
   |  `-----------'  |   |-----'/\         languages: "python,c,c++,js,java,r"
    \________________/___'     /  \        os: "macOS"

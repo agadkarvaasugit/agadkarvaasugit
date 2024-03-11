@@ -9,7 +9,7 @@ $ /Users/vaasu
   |  |           |  |   |-----|           position: "swe"
   |  `-----------'  |   |-----'/\         language: "python,c,c++,js,java,r"
    \________________/___'     /  \        os: "macOS"
-      /                      / / /        website: "vaasu-agadkar.os"
+      /                      / / /        website: "vaasuagadkar.me"
      / //               //  / / /
     /                      / / /
    / _/_/_/_/_/_/_/_/_/_/ /   /

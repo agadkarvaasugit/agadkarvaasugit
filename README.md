@@ -1,3 +1,8 @@
+<p>
+ <a href="https://www.linkedin.com/in/vaasu-agadkar/">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="height: 28px;">
+  </a>
+</p>
 
 ```python
 $ /Users/vaasu
@@ -19,4 +24,16 @@ $ /Users/vaasu
 /______________________/ /    
 \______________________\/
 ```
-<p> <a href="https://www.linkedin.com/in/vaasu-agadkar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
+<p>
+ <a href="https://www.linkedin.com/in/vaasu-agadkar/">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="height: 28px;">
+  </a>
+</p>
+<p>
+  <a href="https://www.linkedin.com/in/vaasu-agadkar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 28px;">
+  </a>
+</p>
+
+
+

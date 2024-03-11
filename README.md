@@ -1,8 +1,16 @@
-<p>
- <a href="https://www.linkedin.com/in/vaasu-agadkar/">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="height: 28px;">
-  </a>
-</p>
+<h2> hi, i'm vaasu agadkar!  </h2>
+welcome to my github page :computer:
+<div align="center">
+<a href="">
+<img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/vaasu-agadkar">
+<img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+<a href="mailto:agadkarvaasucontact@gmail.com">
+<img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+</a>
+</div>
 
 ```python
 $ /Users/vaasu
@@ -24,16 +32,6 @@ $ /Users/vaasu
 /______________________/ /    
 \______________________\/
 ```
-<p>
- <a href="https://www.linkedin.com/in/vaasu-agadkar/">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="height: 28px;">
-  </a>
-</p>
-<p>
-  <a href="https://www.linkedin.com/in/vaasu-agadkar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 28px;">
-  </a>
-</p>
 
 
 
